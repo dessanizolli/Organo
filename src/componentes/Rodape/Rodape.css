@@ -1,4 +1,4 @@
-.rodape{
+.footer{
     background-color: #6278F7;
     display: flex;
     justify-content: space-evenly;
@@ -10,6 +10,6 @@
     margin: 0 20px;
 }
 
-.rodape p{
+.footer p{
     color: #FFFFFF;
 }
