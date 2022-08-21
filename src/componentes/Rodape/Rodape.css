@@ -1,0 +1,15 @@
+.rodape{
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+}
+
+.redes img{
+    margin: 0 20px;
+}
+
+.rodape p{
+    color: #FFFFFF;
+}
