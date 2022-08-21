@@ -7,7 +7,7 @@ const Colaborador = ({nome, imagem, cargo, corDeFundo}) => {
             <div className='cabecalho' style={{backgroundColor: corDeFundo}}>
                 <img src={imagem} alt={nome}></img>
             </div>
-            <div className='rodape'>
+            <div className='infos'>
                 <h4>{nome}</h4>
                 <h5>{cargo}</h5>
             </div>
